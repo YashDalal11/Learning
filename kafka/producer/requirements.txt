@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.0.8
+kafka-python==2.0.2
+setuptools==72.1.0
+sqlparse==0.5.1
+tzdata==2024.1
+wheel==0.43.0
